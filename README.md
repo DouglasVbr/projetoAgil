@@ -6,16 +6,14 @@
 <div align="center"><h1> Análise de Sistemas</h1><p><b> criação da documentação de um projeto </b></p></div>
 
 ## Participantes
-| [<img src="https://avatars.githubusercontent.com/u/130025057?s=400&u=f96f391fe5b875750f59ae9e4f601eaed19b9a33&v=4" width="75px"/>](https://github.com/DouglasVbr )|
 
-| [<img src="https://avatars.githubusercontent.com/u/130782383?v=4" width="75px"/>](https://github.com/rafawkkj )|
-
-| [<img src="https://avatars.githubusercontent.com/u/127573707?v=4" width="75px"/> ](https://github.com/luishq )|
+| [<img src="https://avatars.githubusercontent.com/u/130025057?s=400&u=f96f391fe5b875750f59ae9e4f601eaed19b9a33&v=4" width="75px"/>](https://github.com/DouglasVbr ) |
 | :------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/DouglasVbr/projetoAgil/assets/130025057/53ac5c43-b122-49e8-9455-ef9363082373" width="75px"/>](https://github.com/rafawkkj ) |
+| [<img src="https://github.com/DouglasVbr/projetoAgil/assets/130025057/7c0261ce-7768-4f61-b908-3dc38b9ea67f" width="75px"/>](https://github.com/luishq ) |
 
-| [Douglas Vieira , ](https://github.com/DouglasVbr)
-[Rafael borges , ](https://github.com/rafawkkj)
-[Luis Henrique  ](https://github.com/luishq)
+| [Douglas Vieira](https://github.com/DouglasVbr) , [Rafael Borges](https://github.com/rafawkkj) , [Luis Henrique](https://github.com/luishq) |
+
 
 
 
