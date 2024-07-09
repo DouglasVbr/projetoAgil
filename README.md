@@ -64,7 +64,8 @@ Bem-vindo ao repositório principal do nosso projeto! Este repositório contém 
 ## Diagramas
 
 Os seguintes diagramas estão disponíveis neste repositório:
-![diagrama](https://github.com/DouglasVbr/projetoAgil/assets/130025057/e5bf7af3-48e2-4e29-9b9d-99ff3ee61b58)
+![diagramaProjeto](https://github.com/DouglasVbr/projetoAgil/assets/130025057/54d4cf05-638e-4fa6-89b6-7348044dad6a)
+
 
 ## Requisitos de Sistema
 
