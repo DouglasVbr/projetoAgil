@@ -70,7 +70,7 @@ Os seguintes diagramas estão disponíveis neste repositório:
 ## Requisitos de Sistema
 
 - **Sistema Operacional**: Windows
-- **Linguagem de Programação**: [java, c++ ]
+- **Linguagem de Programação**: [java]
 
 
 ## Instalação
